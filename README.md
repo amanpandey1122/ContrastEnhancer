@@ -20,6 +20,10 @@ Before you begin, ensure you have met the following requirements:
 ## Getting Started
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/image-enhancement-project.git
-   cd image-enhancement-project
+   
+Install Dependencies:
+pip install -r requirements.txt
+
+
+
+
